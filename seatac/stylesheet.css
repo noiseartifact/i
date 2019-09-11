@@ -40,6 +40,10 @@ body {
     display: flex;
     margin-bottom: 3rem;
   }
+  
+  .content img {
+    max-width: 20rem;
+  }
 
   .content div:nth-child(even) {
     flex-direction: row-reverse;
